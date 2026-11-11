@@ -8,6 +8,7 @@ Autonomous Mobile Robot for Industrial and Warehouse Logistics
 <p align="center">
   <b>Autonomous Mobile Robot for Industrial and Warehouse Logistics</b>
 </p>
+
 **Rover6** is an autonomous mobile robotic platform developed in Uzbekistan for industrial, warehouse and facility logistics.
 
 The project is designed to automate repetitive cargo transportation between predefined locations in factories, warehouses, logistics centers and industrial campuses.
@@ -16,7 +17,7 @@ The project is designed to automate repetitive cargo transportation between pred
 
 https://github.com/user-attachments/assets/35bc0364-f688-46a4-8c9d-c0f6164b4cb8
 
-*Development prototype · 6 seconds.* Rover6 drives away from the camera during an outdoor test on asphalt.
+*Development prototype.* Rover6 drives away from the camera during an outdoor test on asphalt.
 
 [View all prototype demonstrations](docs/demonstrations.md).
 
@@ -87,13 +88,15 @@ The mechanical architecture is designed for further testing with payloads exceed
 
 https://github.com/user-attachments/assets/64afe0c8-857d-4f76-8a03-fc134440ae34
 
-*Development prototype · 21 seconds.* The rover crosses a low concrete curb from asphalt to soil, showing the six-wheel chassis adapting to the height change.
+*Development prototype.* The rover crosses a low concrete curb from asphalt to soil, showing the six-wheel chassis adapting to the height change.
 
 Explore the [complete demonstration gallery](docs/demonstrations.md) for additional workshop, driving and load demonstrations.
 
 ---
 
 ## 🧠 Software Architecture
+
+For implementation details, see the [ROS 2 and ESP32-S3 control demo](jury_demo/README.md), which includes selected source code for the velocity-command bridge, drivetrain controller and communication watchdogs.
 
 The autonomous navigation stack is based on:
 
