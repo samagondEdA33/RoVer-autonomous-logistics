@@ -12,6 +12,15 @@ Autonomous Mobile Robot for Industrial and Warehouse Logistics
 
 The project is designed to automate repetitive cargo transportation between predefined locations in factories, warehouses, logistics centers and industrial campuses.
 
+## 🎬 Rover6 in Motion
+
+https://github.com/user-attachments/assets/35bc0364-f688-46a4-8c9d-c0f6164b4cb8
+
+*Development prototype · 6 seconds.* Rover6 drives away from the camera during an outdoor test on asphalt.
+
+[View all prototype demonstrations](docs/demonstrations.md).
+
+
 ---
 
 ## 🚀 Project Status
@@ -50,6 +59,9 @@ Rover6 is based on a six-wheel mobile robotic platform.
   <img src="media/3.jpg" width="48%">
   <img src="media/4.jpg" width="48%">
 </p>
+
+See the [workshop hardware overview](docs/demonstrations.md#hardware-overview) for a closer look at the open-body development prototype and six-wheel chassis.
+
 Main components include:
 
 - 6-wheel electric drivetrain
@@ -66,6 +78,18 @@ Main components include:
 Current platform weight is approximately **50 kg**.
 
 The mechanical architecture is designed for further testing with payloads exceeding **100 kg**.
+
+---
+
+## 🧪 Field Testing
+
+### Curb Traversal
+
+https://github.com/user-attachments/assets/64afe0c8-857d-4f76-8a03-fc134440ae34
+
+*Development prototype · 21 seconds.* The rover crosses a low concrete curb from asphalt to soil, showing the six-wheel chassis adapting to the height change.
+
+Explore the [complete demonstration gallery](docs/demonstrations.md) for additional workshop, driving and load demonstrations.
 
 ---
 
@@ -150,6 +174,8 @@ Current development focus:
 - Obstacle-handling validation
 - Industrial pilot preparation
 - Commercialization
+
+Watch the [prototype load demonstration](docs/demonstrations.md#load-demonstration) and [driving and maneuvering test](docs/demonstrations.md#driving-and-maneuvering).
 
 ---
 
