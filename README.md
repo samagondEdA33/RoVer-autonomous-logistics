@@ -200,6 +200,8 @@ Some production source code, hardware configurations and proprietary components 
 
 We are a team from Uzbekistan building an autonomous robot that carries orders along mapped routes.
 
+[View the English presentation (PDF)](docs/rover-overview-en.pdf)
+
 ### How We Started
 
 We started with the chassis. We designed and built a six-wheel platform in Uzbekistan, then refined the mechanics, navigation, and controls over six versions. Along the way, we completed around 200 test deliveries. **Rover6** is our current working prototype, with autonomous navigation and a dedicated cargo compartment.
