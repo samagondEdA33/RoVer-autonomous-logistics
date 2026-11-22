@@ -193,3 +193,30 @@ Rover6 is designed and developed in Uzbekistan as an autonomous robotics platfor
 This public repository contains selected project information and demonstration materials.
 
 Some production source code, hardware configurations and proprietary components are intentionally not published.
+
+---
+
+## About RoVer
+
+We are a team from Uzbekistan building an autonomous robot that carries orders along mapped routes.
+
+### How We Started
+
+We started with the chassis. We designed and built a six-wheel platform in Uzbekistan, then refined the mechanics, navigation, and controls over six versions. Along the way, we completed around 200 test deliveries. **Rover6** is our current working prototype, with autonomous navigation and a dedicated cargo compartment.
+
+<p align="center">
+  <img src="media/rover-build-frame.jpg" height="280" alt="Early RoVer frame on a workshop bench">
+  <img src="media/rover-build-bodywork.jpg" height="280" alt="A RoVer team member working on a metal panel">
+</p>
+
+[Watch us build RoVer](https://www.youtube.com/shorts/TMK4AAX9Rsg).
+
+### Our Team
+
+- **Nursultan** handles mechanical design, parts fabrication, assembly, and testing.
+- **Abduazim** develops the software, navigation, and robot control systems.
+- **Arslan** brings experience in robotics and works on project development.
+
+### Where We're Going
+
+We want to make autonomous delivery practical for everyday use in Uzbekistan. Our first use case is food delivery from a pickup point to a handoff point. We map the route in advance so Rover6 can carry the order autonomously. We're improving the prototype so it can make these trips reliably day after day.
