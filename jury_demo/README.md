@@ -75,6 +75,37 @@ The ESP32-S3 firmware can be built using PlatformIO:
 pio run --project-dir jury_demo/esp32_wheel_controller
 ```
 
+## Quick Start — Bench Check
+
+**Environment.** The Rover6 development system uses Ubuntu 24.04 LTS and ROS 2 Jazzy. Use an ESP32-S3 with the demo firmware already installed. Keep the wheel-drive power disconnected during this check and connect the controller over USB.
+
+**1. Install the serial dependency and find the controller.** Run these commands from the repository root.
+
+```bash
+sudo apt install python3-serial
+source /opt/ros/jazzy/setup.bash
+python3 -m serial.tools.list_ports
+```
+
+**2. Check the controller.** Set `PORT` to the device shown for your controller.
+
+```bash
+PORT=/dev/ttyUSB0
+python3 -m serial.tools.miniterm "$PORT" 115200 --eol LF --echo
+```
+
+Type `status` and press Enter. A reply starting with `STATUS` confirms serial communication. `armed=no` confirms that the controller is disarmed. Close the monitor with `Ctrl+]` before starting the bridge.
+
+**3. Start the ROS 2 bridge with motion forwarding disabled.**
+
+```bash
+python3 jury_demo/ros2_cmd_vel_serial_bridge.py --ros-args \
+  -p "serial_port:=$PORT" \
+  -p enable_motion:=false
+```
+
+The startup log should report the serial port and `motion forwarding is disabled`.
+
 ## Safety
 
 The public demonstration includes several safety mechanisms:
