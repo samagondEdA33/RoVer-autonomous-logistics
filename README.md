@@ -219,6 +219,17 @@ We started with the chassis. We designed and built a six-wheel platform in Uzbek
 - **Abduazim** develops the software, navigation, and robot control systems.
 - **Arslan** brings experience in robotics and works on project development.
 
+<table>
+  <tr>
+    <td align="center"><img src="media/team-nursultan.png" height="162" alt="Portrait of Nursultan"><br><strong>Nursultan</strong></td>
+    <td align="center"><img src="media/team-abduazim.png" height="162" alt="Portrait of Abduazim"><br><strong>Abduazim</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="media/team-arslan.png" height="162" alt="Portrait of Arslan"><br><strong>Arslan</strong></td>
+    <td align="center"><img src="media/team-arslan-2.png" height="162" alt="Second portrait of Arslan"><br><strong>Arslan</strong></td>
+  </tr>
+</table>
+
 ### Where We're Going
 
 We want to make autonomous delivery practical for everyday use in Uzbekistan. Our first use case is food delivery from a pickup point to a handoff point. We map the route in advance so Rover6 can carry the order autonomously. We're improving the prototype so it can make these trips reliably day after day.
