@@ -1,17 +1,12 @@
-# RoVer-autonomous-logistics
-Autonomous Mobile Robot for Industrial and Warehouse Logistics
-# Rover6 — Autonomous Mobile Robot for Industrial Logistics
+# RoVer — Autonomous Delivery on Mapped Routes
+
+We build Rover6 in Uzbekistan to carry orders between pickup and handoff points along mapped routes. Food delivery is our first use case. We’re looking for a café partner for our first paid pilot. The same platform can also be adapted for routine transport in warehouses and industrial facilities.
+
+[English presentation (PDF)](docs/rover-overview-en.pdf) · [Prototype demonstrations](docs/demonstrations.md) · [ROS 2 and ESP32 demo](jury_demo/README.md)
+
 <p align="center">
   <img src="media/1.jpg" width="850" alt="Rover6 Autonomous Mobile Robot">
 </p>
-
-<p align="center">
-  <b>Autonomous Mobile Robot for Industrial and Warehouse Logistics</b>
-</p>
-
-**Rover6** is an autonomous mobile robotic platform developed in Uzbekistan for industrial, warehouse and facility logistics.
-
-The project is designed to automate repetitive cargo transportation between predefined locations in factories, warehouses, logistics centers and industrial campuses.
 
 ## 🎬 Rover6 in Motion
 
