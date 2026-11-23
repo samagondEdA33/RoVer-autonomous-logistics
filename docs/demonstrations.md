@@ -9,6 +9,8 @@ Videos of the Rover6 development prototype during workshop demonstrations and ou
 - [Outdoor Driving Demo](#outdoor-driving-demo)
 - [Curb Traversal](#curb-traversal)
 - [Hardware Overview](#hardware-overview)
+- [Workshop Fabrication](#workshop-fabrication)
+- [Mapping and Route Planning](#mapping-and-route-planning)
 - [Load Demonstration](#load-demonstration)
 - [Driving and Maneuvering](#driving-and-maneuvering)
 
@@ -29,6 +31,18 @@ https://github.com/user-attachments/assets/64afe0c8-857d-4f76-8a03-fc134440ae34
 https://github.com/user-attachments/assets/ae48deb0-185f-4f12-8b32-e3283be7f40b
 
 *Development prototype.* A workshop walkthrough shows the open body, six-wheel chassis and mechanical layout from side and front views.
+
+## Workshop Fabrication
+
+https://github.com/user-attachments/assets/b734a063-ae0c-4398-8de1-f6f1ab19af72
+
+We show the equipment we use to laser-cut and bend sheet metal for the Rover6 chassis in our workshop.
+
+## Mapping and Route Planning
+
+https://github.com/user-attachments/assets/4f0ee813-4f0c-4e5a-925a-1a4563581cbe
+
+We show our LiDAR map and explain how Rover6 plans a route to a destination we select and uses its sensors to detect obstacles.
 
 ## Load Demonstration
 
