@@ -217,7 +217,7 @@ We started with the chassis. We designed and built a six-wheel platform in Uzbek
 <table>
   <tr>
     <td align="center"><img src="media/team-nursultan.png" height="162" alt="Portrait of Nursultan"><br><strong>Nursultan</strong></td>
-    <td align="center"><img src="media/team-abduazim.png" height="162" alt="Portrait of Abduazim"><br><strong>Abduazim</strong></td>
+    <td align="center"><img src="media/team-abduazim.png" width="32%" alt="Portrait of Abduazim"> <img src="media/team-abduazim-rover-1.png" width="32%" alt="Abduazim on Rover6 showing a peace sign"> <img src="media/team-abduazim-rover-2.png" width="32%" alt="Abduazim on Rover6 looking at the camera"><br><strong>Abduazim</strong></td>
   </tr>
   <tr>
     <td align="center"><img src="media/team-arslan.png" height="162" alt="Portrait of Arslan"><br><strong>Arslan</strong></td>
